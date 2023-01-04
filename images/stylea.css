@@ -1,0 +1,23 @@
+.proj{height: 250px; 
+  width: 100%; 
+}
+
+
+
+container {
+  margin: 0 auto;
+  
+  width: 90%;
+}
+.row{padding: 0 1% 0 15%;}
+
+.stitle{ 
+  display: flex;
+   justify-content: center;}
+
+.proj { transition: all .2s ease-in-out; }
+.proj:hover { transform: scale(1.1); }
+
+.dream{color:green; text-shadow: -2px 0 black, 0 1px black, 1px 0 black, 0 -1px black; font-size: 40px;}
+
+  
